@@ -1,4 +1,4 @@
-#Multiple Encryption
+#Multilayer encryption and decryption script by Cem Baran Tunc
 import base64
 global iterationNumber; i = 0
 
