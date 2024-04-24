@@ -4,7 +4,7 @@
 
 # Contributors
 
-Cem Baran Tunc <cembaran1999@hotmail.com>
+Cem Baran Tunc
 
 ---
 
